@@ -1,7 +1,11 @@
 @charset "utf-8";
 
+$red: #ff0000;
+
+
 body {
-  background: #d4d4d4 url("../images/background.png");
+  // background: #d4d4d4 url("../images/background.png");
+  background: $red;
   text-align: center;
   font-family: sans-serif; }
 
